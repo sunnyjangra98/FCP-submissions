@@ -7,8 +7,7 @@ int main()
     ios_base::sync_with_stdio(0);
     int t,m,i,p,q,te,count;
     cin>>t;
-    while(t--)
-    {
+    while(t--){
         string a="01",k="";
         p=0;
         q=1;
